@@ -1,0 +1,12 @@
+public class Art 
+{
+    public static void main(String[] args)
+    {
+       System.out.println("  ()_____");
+       System.out.println("  //     O)___");
+       System.out.println(" //           )");
+       System.out.println("//      _____/");
+    }
+}
+
+// tbh if you can't do this one urself im a bit concerned for u 
